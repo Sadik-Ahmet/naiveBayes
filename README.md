@@ -1,0 +1,2 @@
+# naiveBayes
+naiveBayes Lab ödevi
